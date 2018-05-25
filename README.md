@@ -2,6 +2,6 @@
 Mandarin Project Summer Challenge Sub-Level Team
 
 # Team Member:
-  Ziyi Lu
-  Huang Zou
-  Alex Francoletti
+Ziyi Lu, 
+Huang Zou, 
+Alex Francoletti
