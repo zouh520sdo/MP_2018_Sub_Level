@@ -11,6 +11,6 @@ public class CCS_GameManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        
 	}
 }
