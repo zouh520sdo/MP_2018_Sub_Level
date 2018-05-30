@@ -5,3 +5,5 @@ Mandarin Project Summer Challenge Sub-Level Team
 Ziyi Lu, 
 Huang Zou, 
 Alex Francoletti
+
+Chinese Culture Center is obsolete.
